@@ -18,7 +18,7 @@ int main(int argc, char** argv)
 	double price1;
 	int id2;
 		
-           ifstream inputFile("C:\\Users\\Hashir\\Desktop\\DSA\\Text.txt"); //use your text fiile path
+           ifstream inputFile("C:\\Users\\hashir\\Desktop\\DSA\\Text.txt"); //Use your text fiile path
            if (!inputFile) 
 	{
                        cerr << "Error: Could not open the file!" <<endl;
@@ -80,3 +80,4 @@ int main(int argc, char** argv)
 	while(true);	
 	return 0;
 }
+
