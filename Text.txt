@@ -1,0 +1,24 @@
+Item ID : 111
+Item Name : Detergent
+Item Description : Best quality detergent
+Price Per Item : 800
+
+Item ID : 112
+Item Name : Rice
+Item Description : special Rice
+Price Per Item : 500
+
+Item ID : 113
+Item Name : Flour
+Item Description : best flour in pakistan
+Price Per Item : 200
+
+Item ID : 114
+Item Name : Cooking Oil
+Item Description : special sunflower oil
+Price Per Item : 700
+
+Item ID : 115
+Item Name : Salt
+Item Description : Iodized salt
+Price Per Item : 100
