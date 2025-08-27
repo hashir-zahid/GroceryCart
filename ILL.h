@@ -1,5 +1,5 @@
 #include<iostream>
-#include "C:\Users\hashir\Desktop\DSA\Linkedlist.h"   //Use your own path
+#include "C:\Users\hashir\Desktop\DSA\LinkedList.h"   //Use your own path
 using namespace std;
 template <class T>
 class ILL:public LinkedList<T>
@@ -31,4 +31,5 @@ double ILL<T>::add(int id)
 	}
 	return ptr->getInfo()->getPricePerItem();
 }
+
 
